@@ -34,7 +34,7 @@
     "astro": "6.1.10",
     "aws-cdk-lib": "2.148.0",
     "axios": "1.16.0",
-    "body-parser": "1.20.2",
+    "body-parser": "1.20.6",
     "bun-plugin-svelte": "file:../packages/bun-plugin-svelte",
     "bun-plugin-yaml": "0.0.1",
     "comlink": "4.4.1",
